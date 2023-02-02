@@ -26,8 +26,8 @@ Files (Mete el fichero word y pdf que lo acompaña como parte de los ficheros su
 V3.5: https://91c86f05-550f-4736-a32d-209bd17abad1.filesusr.com/ugd/cab28a_9d344907863b4033ada6d9318d511b6e.docx?dn=RMD-X%20Servo%20Motor%20Control%20Protocol%20V3.6.docx - MyActuator.
 
 ## Image
-
 CAN Bus Shield:
+
 ![image](https://user-images.githubusercontent.com/78860501/216390808-9829d965-8f08-49f1-8d3f-99cf482643a9.png)
 
 USB to UART :
